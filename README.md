@@ -20,16 +20,21 @@ Here’s a step-by-step guide to setting up the development environment:
    
 2. **Navigate to the project directory:
 
-     cd yourprojectname
+        cd yourprojectname
 
-3. **Install node module packages to run
-     npm install
+4. **Install node module packages to run
 
-4.  **Install the necessary packages
-         npm install react-router-dom and  react-icons
+          npm install
+
+6.  **Install the necessary packages
+
+         npm install react-router-dom 
+        react-icons
 
   5.**Set up Tailwind CSS:
+  
        Follow the official Tailwind CSS installation guide to set it up in your project.
 
   6. **After complete all Instruction run
+
          npm start         
