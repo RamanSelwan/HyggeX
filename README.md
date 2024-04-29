@@ -17,10 +17,19 @@ Here’s a step-by-step guide to setting up the development environment:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/yourprojectname.git
+   
+2. **Navigate to the project directory:
 
+     cd yourprojectname
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+3. **Install node module packages to run
+     npm install
 
-### `npm run build` fails to minify
+4.  **Install the necessary packages
+         npm install react-router-dom and  react-icons
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  5.**Set up Tailwind CSS:
+       Follow the official Tailwind CSS installation guide to set it up in your project.
+
+  6. **After complete all Instruction run
+         npm start         
